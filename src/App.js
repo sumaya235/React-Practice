@@ -117,7 +117,8 @@ function FourComponent(props){
     width:'200px',
     float:'left',
     marginRight:'20px',
-    backgroundColor:'lightGray'
+    backgroundColor:'lightGray',
+    marginLeft:'15px'
     
   }
   return(
